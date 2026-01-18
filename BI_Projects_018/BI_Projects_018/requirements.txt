@@ -1,6 +1,0 @@
-ipykernel
-seaborn
-matplotlib
-plotly
-requests
-scikit-learn
